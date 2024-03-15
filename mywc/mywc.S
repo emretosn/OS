@@ -58,7 +58,7 @@ main:
         	cmpl $FALSE, iInWord
         	je output
         	incl lWordCount
-	outout:
+	output:
         	movl $string, %edi
         	movl lLineCount, %esi
         	movl lWordCount, %edx
