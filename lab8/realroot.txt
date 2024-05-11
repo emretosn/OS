@@ -1,0 +1,38 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 123601944591084 (0x706a52003aec)
+        Signature Algorithm: ecdsa-with-SHA384
+        Issuer: C=TR, L=Ankara, O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş., CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı H7
+        Validity
+            Not Before: Mar  5 14:07:02 2020 GMT
+            Not After : Mar  3 14:07:02 2030 GMT
+        Subject: C=TR, L=Ankara, O=TÜRKTRUST Bilgi İletişim ve Bilişim Güvenliği Hizmetleri A.Ş., CN=TÜRKTRUST Elektronik Sertifika Hizmet Sağlayıcısı H7
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub:
+                    04:1d:71:b2:63:da:26:82:30:6a:64:0c:5f:07:a9:
+                    96:b5:fc:7b:0d:2c:c5:1c:f8:f9:87:d2:a7:c9:1d:
+                    cc:8e:c9:a8:32:30:48:43:02:35:cf:3a:17:d9:21:
+                    5e:a5:cd:1f:eb:78:b3:dc:90:70:28:51:e2:04:55:
+                    4e:18:02:17:d2:20:55:41:8f:5b:d1:e1:66:81:85:
+                    ee:1f:ae:38:95:67:bd:88:a3:2a:77:f9:25:bc:59:
+                    78:b0:f7:b8:69:fa:f3
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                94:B2:8D:F1:43:3A:39:9A:CA:B5:F7:F9:DB:9A:49:EB:54:19:D1:53
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+    Signature Algorithm: ecdsa-with-SHA384
+    Signature Value:
+        30:66:02:31:00:89:13:8d:9c:ed:0e:f7:ce:51:a5:32:8a:a8:
+        d3:4f:c5:ae:b7:3f:b0:f7:32:aa:58:b9:0d:8c:6c:f1:ad:5a:
+        09:ac:dd:03:3f:40:ec:13:be:d2:8d:8f:f9:09:1a:fb:97:02:
+        31:00:f7:97:9b:69:61:8b:bf:18:c3:57:3a:33:2f:9e:8b:07:
+        ad:20:c3:97:d3:2e:1c:0b:d0:d7:1d:12:58:bc:19:29:11:34:
+        d7:f5:5f:e5:a9:31:67:21:7b:52:14:58:4e:6a
